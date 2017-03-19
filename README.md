@@ -40,7 +40,7 @@ MonoSnap
 
 Webdrive
 
-Mozila Thuinderbird
+Mozila Thunderbird
 
 PoEdit
 
