@@ -40,7 +40,7 @@ MonoSnap
 
 Webdrive
 
-Mozila Thunderbird
+Mozilla Thunderbird
 
 PoEdit
 
@@ -48,7 +48,7 @@ CuteFtp
 
 TeamViewer
 
-IoBit Unistuller
+IoBit Uninstaller
 
 Glimpses
 
